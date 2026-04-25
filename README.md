@@ -1,2 +1,2 @@
-# Wareframe_Pagina_Web_Cliente
+# Wireframe_Pagina_Web_Cliente
 Wireframe Pagina Web Cliente
